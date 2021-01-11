@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-tailwind",
-  "description": "Gatsby starter styled with Tailwind",
-  "version": "5.0.0",
-  "author": "Taylor Bryant <taylor@bryant.io>",
+  "name": "enlight-fellowship",
+  "description": "Enlight Fellowship Starter (Gatsby + Tailwind)",
+  "version": "1.0.0",
+  "author": "Enlight Team",
   "dependencies": {
     "gatsby": "2.25.1",
     "gatsby-plugin-manifest": "2.8.0",
