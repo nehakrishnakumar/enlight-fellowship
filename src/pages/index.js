@@ -10,6 +10,7 @@ function IndexPage() {
     <Layout>
       <SEO title="Home" />
       <Welcome />
+      <Table />
     </Layout>
   );
 }
